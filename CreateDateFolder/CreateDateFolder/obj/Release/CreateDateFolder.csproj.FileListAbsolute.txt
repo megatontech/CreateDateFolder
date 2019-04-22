@@ -1,0 +1,8 @@
+C:\Users\jingjie\source\repos\CreateDateFolder\CreateDateFolder\bin\Release\CreateDateFolder.exe
+C:\Users\jingjie\source\repos\CreateDateFolder\CreateDateFolder\bin\Release\CreateDateFolder.pdb
+C:\Users\jingjie\source\repos\CreateDateFolder\CreateDateFolder\obj\Release\CreateDateFolder.Form1.resources
+C:\Users\jingjie\source\repos\CreateDateFolder\CreateDateFolder\obj\Release\CreateDateFolder.Properties.Resources.resources
+C:\Users\jingjie\source\repos\CreateDateFolder\CreateDateFolder\obj\Release\CreateDateFolder.csproj.GenerateResource.cache
+C:\Users\jingjie\source\repos\CreateDateFolder\CreateDateFolder\obj\Release\CreateDateFolder.csproj.CoreCompileInputs.cache
+C:\Users\jingjie\source\repos\CreateDateFolder\CreateDateFolder\obj\Release\CreateDateFolder.exe
+C:\Users\jingjie\source\repos\CreateDateFolder\CreateDateFolder\obj\Release\CreateDateFolder.pdb
